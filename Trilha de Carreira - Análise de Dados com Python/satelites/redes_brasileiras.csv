@@ -1,0 +1,76 @@
+﻿Rede Brasileira;Órbita;Posição;Bandas;Disponibilidade do filing;Responsável;Status MIFR;Status BIU (entrada em operação UIT);Data de envio à UIT;Ano de envio à UIT
+B-SAT-1Z;GEO;20ºW;Ka;Redes consignadas a operadores;HUGHES TELECOMUNICAÇÕES DO BRASIL LTDA.;Notificada;BIU Total;28/07/2015;2015
+B-SAT-31.5W;GEO;31,5ºW;Ka,Q/V;Redes disponíveis (não consignadas);Rede não consignada a operador;Coordenando;PENDENTE;02/05/2018;2018
+B-SAT-2N;GEO;84ºW;C,Ku,Ka;Redes consignadas a operadores;EMBRATEL TVSAT TELECOMUNICAÇÕES S.A.;Parcialmente Notif./Coord.;BIU Parcial (faixas pendentes);07/10/2009;2009
+ALFACRUX;NGEO;NGEO;UHF;Redes consignadas a operadores;UnB - Universidade de Brasília;Notificada;BIU Total;19/05/2021;2021
+B-SAT-1X;GEO;40,5°W;Ka,Q/V;Redes disponíveis (não consignadas);Rede não consignada a operador;Coordenando;PENDENTE;05/12/2017;2017
+B-SAT-3A-2;GEO;44,9ºW;Ku (AP30-30A);Redes disponíveis (não consignadas);Rede não consignada a operador;Notificada;BIU Total;02/01/2012;2012
+B-SAT-3A-2 TT&C;GEO;44,9ºW;Ku (AP30-30A);Redes disponíveis (não consignadas);Rede não consignada a operador;Notificada;BIU Total;02/01/2012;2012
+B-SAT-3A-3 TT&C;GEO;45,1ºW;Ku (AP30-30A);Redes disponíveis (não consignadas);Rede não consignada a operador;Coordenando;PENDENTE;12/09/2013;2013
+B-SAT-1A-3;GEO;45ºW;S;Redes disponíveis (não consignadas);Rede não consignada a operador;Coordenando;PENDENTE;29/06/2016;2016
+B-SAT-1A-2;GEO;45ºW;Ka;Redes disponíveis (não consignadas);Rede não consignada a operador;Coordenando;PENDENTE;29/06/2016;2016
+B-SAT-3B-1 TTC;GEO;74ºW;Ku (AP30-30A);Redes consignadas a operadores;HISPAMAR SATÉLITES S.A.;Coordenando;PENDENTE;15/07/2015;2015
+B-SAT-78W;GEO;78ºW;Ka,Q/V;Redes disponíveis (não consignadas);Rede não consignada a operador;Coordenando;PENDENTE;03/05/2018;2018
+B-SAT-1W-2;GEO;47,5ºW;C,Ku,Ka;Redes consignadas a operadores;SES DTH DO BRASIL LTDA.;Notificada;BIU Total;23/06/2014;2014
+B-SAT-1W;GEO;48ºW;C,Ku;Redes consignadas a operadores;SES DTH DO BRASIL LTDA.;Notificada;BIU Total;01/06/2006;2006
+B-SAT-1N-1;GEO;84ºW;Ka;Redes consignadas a operadores;EMBRATEL TVSAT TELECOMUNICAÇÕES S.A.;Parcialmente Notif./Coord.;BIU Parcial (faixas pendentes);07/10/2011;2011
+UBATUBASAT;NGEO;NGEO;UHF;Redes consignadas a operadores;INPE - Instituto Nacional de Pesquisas Espaciais;Coordenando;PENDENTE;03/03/2015;2015
+B-SAT-53W;GEO;53ºW;Ka,Q/V;Redes disponíveis (não consignadas);Rede não consignada a operador;Coordenando;PENDENTE;03/05/2018;2018
+WORMSAIL;NGEO;NGEO;UHF;Redes consignadas a operadores;UnB - Universidade de Brasília;Coordenando;PENDENTE;08/12/2020;2020
+B 00022;GEO;56,5ºW;C (AP30B),Ku (AP30B);Redes disponíveis (não consignadas);Rede não consignada a operador;Coordenando;PENDENTE;12/11/2012;2012
+B-SAT-1V;GEO;57ºW;Ka,Q/V;Redes consignadas a operadores;TELECOMUNICAÇÕES SA TELEBRÁS;Coordenando;PENDENTE;27/09/2017;2017
+SPORT-1;NGEO;NGEO;VHF,UHF;Redes consignadas a operadores;ITA - Instituto Tecnológico de Aeronáutica;Coordenando;PENDENTE;04/03/2020;2020
+MECB/SCD-2;NGEO;NGEO;S,UHF;Redes consignadas a operadores;INPE - Instituto Nacional de Pesquisas Espaciais;Notificada;BIU Total;25/06/1997;1997
+B-SAT-59W;GEO;59ºW;Ka,Q/V;Redes disponíveis (não consignadas);Rede não consignada a operador;Coordenando;PENDENTE;03/05/2018;2018
+B-SAT Q;GEO;61ºW;Ku;Redes consignadas a operadores;HISPAMAR SATÉLITES S.A.;Notificada;BIU Total;15/04/1997;1997
+ITASAT-1;NGEO;NGEO;VHF,UHF,S;Redes consignadas a operadores;ITA - Instituto Tecnológico de Aeronáutica;Coordenando;PENDENTE;17/08/2018;2018
+B-SAT-3Q;GEO;61ºW;Ku (AP30-30A);Redes consignadas a operadores;HISPAMAR SATÉLITES S.A.;Notificada;BIU Total;11/01/2012;2012
+B-SAT-3Q-1;GEO;61ºW;Ku (AP30-30A);Redes consignadas a operadores;HISPAMAR SATÉLITES S.A.;Coordenando;PENDENTE;04/06/2014;2014
+B-SAT-3Q TTC;GEO;61ºW;Ku (AP30-30A);Redes consignadas a operadores;HISPAMAR SATÉLITES S.A.;Coordenando;PENDENTE;04/06/2014;2014
+B-SAT-1Q;GEO;61ºW;Ka;Redes consignadas a operadores;HISPAMAR SATÉLITES S.A.;Notificada;BIU Total;07/01/2009;2009
+AESP-14;NGEO;NGEO;UHF;Redes consignadas a operadores;ITA - Instituto Tecnológico de Aeronáutica;Coordenando;PENDENTE;07/11/2014;2014
+SBTS B3;GEO;61ºW;C;Redes consignadas a operadores;HISPAMAR SATÉLITES S.A.;Notificada;BIU Total;01/06/1987;1987
+B-SAT-61W;GEO;61ºW;C,Ku,Ka;Redes consignadas a operadores;HISPAMAR SATÉLITES S.A.;Coordenando;PENDENTE;10/05/2019;2019
+AMAZONIA-1;NGEO;NGEO;S,X;Redes consignadas a operadores;INPE - Instituto Nacional de Pesquisas Espaciais;Coordenando;PENDENTE;03/07/2017;2017
+B-SAT S;GEO;75ºW;C,Ku;Redes consignadas a operadores;EMBRATEL TVSAT TELECOMUNICAÇÕES S.A.;Notificada;BIU Total;11/08/1997;1997
+B-SAT E;GEO;63ºW;C;Redes consignadas a operadores;EMBRATEL TVSAT TELECOMUNICAÇÕES S.A.;Notificada;BIU SUSPENSO (3 ANOS);30/08/2016;2016
+B-SAT P;GEO;84ºW;C;Redes consignadas a operadores;EMBRATEL TVSAT TELECOMUNICAÇÕES S.A.;Notificada;BIU Total;15/04/1997;1997
+B-SAT I;GEO;63ºW;Ku;Redes consignadas a operadores;TELESAT BRASIL CAPACIDADE DE SATÉLITES LTDA.;Notificada;BIU Total;27/06/1994;1994
+B-SAT-1I-1;GEO;63ºW;Ka;Redes consignadas a operadores;TELESAT BRASIL CAPACIDADE DE SATÉLITES LTDA.;Notificada;BIU Total;06/10/2011;2011
+B-SAT-3I;GEO;63ºW;Ku (AP30B);Redes consignadas a operadores;TELESAT BRASIL CAPACIDADE DE SATÉLITES LTDA.;Notificada;BIU Total;19/07/2012;2012
+B-SAT-63W;GEO;63ºW;C;Redes consignadas a operadores;EMBRATEL TVSAT TELECOMUNICAÇÕES S.A.;Coordenando;PENDENTE;07/07/2021;2021
+B-SAT-3I-1;GEO;63ºW;Ku (AP30B);Redes consignadas a operadores;TELESAT BRASIL CAPACIDADE DE SATÉLITES LTDA.;Coordenando;PENDENTE;01/07/2022;2022
+B-SAT-3H;GEO;64,2ºW;Ku (AP30-30A);Redes disponíveis (não consignadas);Rede não consignada a operador;Coordenando;PENDENTE;28/10/2014;2014
+B-SAT-3H TTC;GEO;64,2ºW;Ku (AP30-30A);Redes disponíveis (não consignadas);Rede não consignada a operador;Coordenando;PENDENTE;10/11/2015;2015
+B-SAT-1R-1;GEO;65ºW;Ka;Redes consignadas a operadores;EUTELSAT DO BRASIL LTDA;Notificada;BIU Total;06/10/2011;2011
+B-SAT-1R;GEO;65ºW;C;Redes consignadas a operadores;EMBRATEL TVSAT TELECOMUNICAÇÕES S.A.;Notificada;BIU Total;13/10/2004;2004
+B-SAT R;GEO;65ºW;Ku;Redes consignadas a operadores;EMBRATEL TVSAT TELECOMUNICAÇÕES S.A.;Notificada;BIU Total;15/04/1997;1997
+SBTS B2;GEO;65ºW;C;Redes consignadas a operadores;EMBRATEL TVSAT TELECOMUNICAÇÕES S.A.;Notificada;BIU Total;01/06/1987;1987
+B-SAT-3B-1;GEO;74ºW;Ku (AP30-30A);Redes consignadas a operadores;HISPAMAR SATÉLITES S.A.;Coordenando;PENDENTE;26/06/2015;2015
+B-SAT-3R;GEO;65ºW;C (AP30B),Ku (AP30B);Redes consignadas a operadores;EUTELSAT DO BRASIL LTDA;Notificada;PENDENTE;16/11/2012;2012
+FLORIPASAT-1;NGEO;NGEO;VHF,UHF;Redes consignadas a operadores;UFSC - Universidade Federal de Santa Catarina;Coordenando;PENDENTE;04/11/2019;2019
+B-SAT-3R-1;GEO;65ºW;C (AP30B),Ku (AP30B);Redes consignadas a operadores;EUTELSAT DO BRASIL LTDA;Coordenando;PENDENTE;25/02/2014;2014
+B-SAT-2R;GEO;65ºW;Ku;Redes consignadas a operadores;EMBRATEL TVSAT TELECOMUNICAÇÕES S.A.;Coordenando;PENDENTE;09/07/2018;2018
+B-SAT-1R-2;GEO;65ºW;Q/V,W;Redes consignadas a operadores;EMBRATEL TVSAT TELECOMUNICAÇÕES S.A.;Coordenando;PENDENTE;15/01/2020;2020
+B-SAT-80W;GEO;80ºW;Ka,Q/V;Redes disponíveis (não consignadas);Rede não consignada a operador;Coordenando;PENDENTE;03/05/2018;2018
+B 00011;GEO;65ºW;C (AP30B),Ku (AP30B);Redes consignadas a operadores;EUTELSAT DO BRASIL LTDA;Coordenando;PENDENTE;15/11/2012;2012
+B-SAT-1N-2;GEO;84°W;Q/V,W;Redes consignadas a operadores;EMBRATEL TVSAT TELECOMUNICAÇÕES S.A.;Coordenando;PENDENTE;15/01/2020;2020
+B-SAT-1J;GEO;68ºW;C;Redes consignadas a operadores;EMBRATEL TVSAT TELECOMUNICAÇÕES S.A.;Notificada;BIU SUSPENSO (3 ANOS);30/09/2003;2003
+B-SAT-2J;GEO;68ºW;C;Redes consignadas a operadores;EMBRATEL TVSAT TELECOMUNICAÇÕES S.A.;Notificada;BIU SUSPENSO (3 ANOS);07/10/2009;2009
+SBTS B1;GEO;70ºW;C;Redes consignadas a operadores;EMBRATEL TVSAT TELECOMUNICAÇÕES S.A.;Notificada;BIU Total;23/11/1982;1982
+B-SAT-1C;GEO;70ºW;C,Ku;Redes consignadas a operadores;EMBRATEL TVSAT TELECOMUNICAÇÕES S.A.;Notificada;BIU Total;18/02/2003;2003
+B-SAT-1S;GEO;75ºW;C,Ku;Redes consignadas a operadores;EMBRATEL TVSAT TELECOMUNICAÇÕES S.A.;Notificada;BIU Total;27/10/2006;2006
+PION-BR1;NGEO;NGEO;UHF;Redes consignadas a operadores;PION Labs;Coordenando;PENDENTE;20/04/2021;2021
+VCUB1;NGEO;NGEO;UHF,S;Redes consignadas a operadores;Visiona;Coordenando;PENDENTE;22/11/2018;2018
+NANOSATC-BR2;NGEO;NGEO;VHF,UHF;Redes consignadas a operadores;UFSM - Universidade Federal de Santa Maria;Coordenando;PENDENTE;03/03/2021;2021
+MECB-S1;NGEO;NGEO;S;Redes consignadas a operadores;INPE - Instituto Nacional de Pesquisas Espaciais;Notificada;BIU Total;21/04/1987;1987
+SBTS C1;GEO;70ºW;Ku;Redes consignadas a operadores;EMBRATEL TVSAT TELECOMUNICAÇÕES S.A.;Notificada;BIU Total;26/04/1994;1994
+SBTS B4;GEO;92ºW;C;Redes consignadas a operadores;EMBRATEL TVSAT TELECOMUNICAÇÕES S.A.;Notificada;BIU Total;03/02/1994;1994
+B-SAT-1S-1;GEO;75ºW;Ka;Redes consignadas a operadores;TELECOMUNICAÇÕES SA TELEBRÁS;Notificada;BIU Total;07/10/2011;2011
+B-SAT-3C;GEO;70ºW;Ku (AP30-30A);Redes consignadas a operadores;EMBRATEL TVSAT TELECOMUNICAÇÕES S.A.;Notificada;BIU Total;16/12/2010;2010
+B-SAT-2N-1;GEO;84ºW;C,Ku,Ka;Redes consignadas a operadores;EMBRATEL TVSAT TELECOMUNICAÇÕES S.A.;Coordenando;PENDENTE;16/06/2015;2015
+B-SAT-1C-2;GEO;70ºW;Ka,Ku;Redes consignadas a operadores;EMBRATEL TVSAT TELECOMUNICAÇÕES S.A.;Coordenando;PENDENTE;04/07/2018;2018
+B-SAT-1C-3;GEO;70ºW;Q/V,W;Redes consignadas a operadores;EMBRATEL TVSAT TELECOMUNICAÇÕES S.A.;Coordenando;PENDENTE;14/01/2020;2020
+B-SAT-89W;GEO;89ºW;C,Ku,Ka;Redes consignadas a operadores;EMBRATEL TVSAT TELECOMUNICAÇÕES S.A.;Coordenando;PENDENTE;05/09/2018;2018
+B-SAT-72.5W;GEO;72,5ºW;Ka,Q/V;Redes disponíveis (não consignadas);Rede não consignada a operador;Coordenando;PENDENTE;02/05/2018;2018
+SACI 1;NGEO;NGEO;S;Redes consignadas a operadores;INPE - Instituto Nacional de Pesquisas Espaciais;Notificada;BIU Total;15/12/1998;1998
